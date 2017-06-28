@@ -1,0 +1,12 @@
+{
+  "name": "ay-md-progress",
+  "version": "1.0.0",
+  "description": "Simple Progressbar for Markdown, Inspired by http://progressed.io/",
+  "main": "index.js",
+  "author": "Ayat Maulana",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
