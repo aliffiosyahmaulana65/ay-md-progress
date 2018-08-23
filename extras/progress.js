@@ -7,7 +7,7 @@ module.exports = function(value)
 	let color  = null
 	let colorCollection = ["#2ecc71","#2980b9","#f39c12","#1abc9c"]
 	let colorBg = "#34495e"
-	let colorText = "#ecf0f1"
+	let colorText = "#2ecc71"
 
 	if(value >= 85)
 		color = colorCollection[0]
