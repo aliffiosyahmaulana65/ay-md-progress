@@ -1,6 +1,6 @@
 module.exports = function(value)
 {
-	let progressWidth = 320
+	let progressWidth = 1000
 
 
 	let lenght = 0
