@@ -5,7 +5,7 @@ module.exports = function(value)
 
 	let lenght = 0
 	let color  = null
-	let colorCollection = ["#2ecc71","#2980b9","#f39c12","#c0392b"]
+	let colorCollection = ["#2ecc71","#2980b9","#f39c12","#1abc9c"]
 	let colorBg = "#34495e"
 	let colorText = "#ecf0f1"
 
